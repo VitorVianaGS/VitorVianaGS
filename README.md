@@ -51,7 +51,7 @@ const vitor = {
     "TypeScript",
     "SQL"
   ],
-  filosofia: "Aprender, ensina e crescer."
+  filosofia: "Aprender, ensinar e crescer."
 };
 ```
 
