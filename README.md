@@ -1,144 +1,56 @@
-# 👨‍💻 Vitor Viana | Turning Curiosity into Code
+<h2 data-importer="text" align="center">Hi 👋! My name is Vitor Viana!</h2>
 
-<div align="center">
+###
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Aspiring+Software+Developer;Data+Analytics+Student;Backend+Development+%7C+JavaScript;Learning%2C+Building+%26+Growing+%F0%9F%9A%80" alt="Typing SVG" />
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/VitorVianaGS/VitorVianaGS/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/VitorVianaGS/VitorVianaGS/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-  <p>
-    🇧🇷 Based in Brazil · 💻 Building my future in tech · 🌎 Learning English
-  </p>
+###
 
-  <a href="https://github.com/VitorVianaGS">
-    <img src="https://img.shields.io/badge/GitHub-VitorVianaGS-181717?style=for-the-badge&logo=github" alt="GitHub" />
+<img data-importer="image" align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODFoaW04ajBxOWwyd3lic2MzcG1zbzVjcmd1dTJtYnJ1a21rb213bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/e5iPRfyn2UG7oNIYEN/giphy.gif"  />
+
+###
+
+<div data-importer="techs" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="30" alt="sqlalchemy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
+</div>
+
+###
+
+<div data-importer="socials" align="center">
+  <a href="https://www.linkedin.com/in/vitorvianags/?isSelfProfile=true" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://www.linkedin.com/" >
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-
 </div>
 
----
+###
 
-## 🧑‍🚀 About Me
+<br clear="both">
 
-Hey there! I'm **Vitor**, a technology enthusiast exploring the intersection of software development and data.
+<img data-importer="snake" src="https://raw.githubusercontent.com/VitorVianaGS/VitorVianaGS/snake-output/snake.svg" alt="Snake animation" />
 
-Currently, I'm on a learning journey through two exciting areas of technology:
-
-- 📊 **Data Analytics** — studying at Generation Brasil.
-- ⚙️ **Backend Development** — studying JavaScript at SoulCode Academy.
-
-I believe the best way to learn technology is to build things, solve problems, make mistakes, and keep improving.
-
-```javascript
-const vitor = {
-  location: "Brazil 🇧🇷",
-  education: ["Data Analytics", "Backend Development"],
-  focus: ["JavaScript", "Programming", "Data"],
-  currentlyLearning: ["Git", "GitHub", "English"],
-  mindset: "Learn. Build. Improve. Repeat. 🔁"
-};
-```
-
----
-
-## ⚡ Tech Stack & Tools
-
-<div align="center">
-
-  <img src="https://skillicons.dev/icons?i=javascript,python,html,css,git,github,mysql&theme=dark" alt="Technologies and tools" />
-
-</div>
-
-<p align="center">
-  <i>Learning by doing — one project at a time.</i>
-</p>
-
----
-
-## 🎯 Current Mission
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>📊 Data Analytics</h3>
-      Learning how to explore data, identify patterns, and transform information into useful insights.
-    </td>
-    <td width="50%">
-      <h3>⚙️ Backend Development</h3>
-      Developing programming logic and learning to build applications with JavaScript.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🛠️ Developer Workflow</h3>
-      Practicing version control, Git, GitHub, and collaborative development.
-    </td>
-    <td width="50%">
-      <h3>🌎 English Journey</h3>
-      Improving my English to collaborate, learn, and connect with the global tech community.
-    </td>
-  </tr>
-</table>
-
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=VitorVianaGS&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorVianaGS&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most used languages" />
-
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=VitorVianaGS&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-
-</div>
-
----
-
-## 🏆 My Developer Mindset
-
-<div align="center">
-
-  💡 Curiosity over comfort  
-  &nbsp; 🚀 Progress over perfection  
-  &nbsp; 🤝 Collaboration over competition
-
-  <br />
-
-  <i>"The goal isn't to know everything. It's to never stop learning."</i>
-
-</div>
-
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-  <a href="https://www.linkedin.com/" >
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say_hello-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-
-  <br /><br />
-
-  <img src="https://komarev.com/ghpvc/?username=VitorVianaGS&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile views" />
-
-</div>
-
----
-
-<div align="center">
-
-  ### 🐍 Watch my contributions come to life!
-
-  <img src="https://raw.githubusercontent.com/VitorVianaGS/VitorVianaGS/snake-output/snake.svg" alt="Contribution snake animation" />
-
-  **Thanks for stopping by! Keep coding and stay curious. 💜**
-
-</div>
+###
