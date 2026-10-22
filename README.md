@@ -29,16 +29,16 @@ Olá! Sou **Vitor Viana**, estudante universitário e entusiasta da tecnologia, 
 
 Tenho interesse especial em **Desenvolvimento Backend, Automação, Inteligência Artificial e Análise de Dados**. Quero compreender como sistemas, aplicações e dados se conectam para criar soluções úteis, eficientes e inteligentes.
 
-- 🎓 **Formação:** ensino superior na área de tecnologia em andamento.
+- 🎓 **Formação:** Análise e Desenvolvimento de Sistema na Uninter - Conclusão em 12/27.
 - ⚙️ **Backend:** desenvolvimento de aplicações, APIs, lógica de programação e bancos de dados.
 - 🤖 **Automação e IA:** scripts, otimização de tarefas e aplicações inteligentes.
-- 📊 **Análise de Dados:** tratamento, exploração e visualização de informações.
-- 🌎 **Desenvolvimento pessoal:** aprimoramento contínuo do inglês e das habilidades profissionais.
+- 📊 **Análise de Dados:** tratamento, exploração e visualização de informações implementando IA.
+- 🌎 **Desenvolvimento pessoal:** aprimoramento contínuo do inglês, hardskills e softskills.
 
 ```javascript
 const vitor = {
   nome: "Vitor Viana",
-  pais: "Brasil 🇧🇷",
+  pais: "Brasil sp",
   foco: [
     "Desenvolvimento Backend",
     "Automação",
@@ -51,7 +51,7 @@ const vitor = {
     "TypeScript",
     "SQL"
   ],
-  filosofia: "Aprender, construir e evoluir."
+  filosofia: "Aprender, ensina e crescer."
 };
 ```
 
