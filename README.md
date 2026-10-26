@@ -145,25 +145,25 @@ const vitor = {
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=VitorVianaGS&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"
-  height="170"
-  alt="Estatísticas do GitHub"
-/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=VitorVianaGS&show_icons=true&theme=github_dark&hide_border=true"
+    height="170"
+    alt="Estatísticas do GitHub"
+  />
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorVianaGS&layout=compact&theme=github_dark&hide_border=true&langs_count=6"
-  height="170"
-  alt="Linguagens mais utilizadas nos repositórios"
-/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorVianaGS&layout=compact&theme=github_dark&hide_border=true&langs_count=6"
+    height="170"
+    alt="Linguagens mais utilizadas"
+  />
 
-<br />
+  <br />
 
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=VitorVianaGS&theme=github-dark-blue&hide_border=true"
-  height="170"
-  alt="Sequência de contribuições no GitHub"
-/>
+  <img
+    src="https://streak-stats.demolab.com/?user=VitorVianaGS&theme=github-dark-blue&hide_border=true"
+    height="170"
+    alt="Sequência de contribuições"
+  />
 
 </div>
 
