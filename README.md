@@ -6,11 +6,13 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=Estudante+universit%C3%A1rio+%F0%9F%8E%93;Desenvolvimento+Backend+%E2%9A%99%EF%B8%8F;Automa%C3%A7%C3%A3o+e+Intelig%C3%AAncia+Artificial+%F0%9F%A4%96;An%C3%A1lise+de+Dados+%F0%9F%93%8A;Aprender.+Construir.+Evoluir.+%F0%9F%9A%80" alt="Apresentação animada de Vitor" />
 
+
 <p>
-  <img src="https://img.shields.io/badge/Local-Brasil-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Brasil" />
-  <img src="https://img.shields.io/badge/Foco-Backend-7C3AED?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Backend" />
-  <img src="https://img.shields.io/badge/Interesse-Inteligência_Artificial-0891B2?style=for-the-badge&logo=openai&logoColor=white" alt="Inteligência Artificial" />
+  <img src="https://img.shields.io/badge/Local-Guarulhos_SP%2C_Brasil-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Guarulhos - SP, Brasil" />
+  <img src="https://img.shields.io/badge/Foco-Backend_%26_Data_Analysis-7C3AED?style=for-the-badge&logo=python&logoColor=white" alt="Backend e Data Analysis" />
+  <img src="https://img.shields.io/badge/Interesses-Automação_%7C_IA_%7C_Data_Science-0891B2?style=for-the-badge&logo=openai&logoColor=white" alt="Automação, IA e Data Science" />
 </p>
+
 
 <a href="https://github.com/VitorVianaGS">
   <img src="https://img.shields.io/badge/GitHub-Acompanhe_meus_projetos-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
