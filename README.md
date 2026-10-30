@@ -131,13 +131,13 @@ const vitor = {
 <div align="center">
 
   <img
-    src="https://github-readme-stats-fast.vercel.app/api?username=VitorVianaGS&show_icons=true&theme=github_dark&hide_border=true"
+    src="./profile-summary-card-output/github_dark/0-profile-details.svg"
     height="170"
     alt="Estatísticas do GitHub"
   />
 
   <img
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=VitorVianaGS&layout=compact&theme=github_dark&hide_border=true&langs_count=6"
+    src="./profile-summary-card-output/github_dark/2-most-commit-language.svg"
     height="170"
     alt="Linguagens mais utilizadas"
   />
@@ -151,45 +151,8 @@ const vitor = {
   />
 
 </div>
----
-
-## 🧭 Minha mentalidade
-
-<div align="center">
-
-| Princípio | Como aplico |
-|:--|:--|
-| 💡 Curiosidade | Buscar entender como as coisas funcionam. |
-| 🚀 Evolução | Aprender com os erros e melhorar continuamente. |
-| ⚙️ Eficiência | Procurar maneiras de automatizar e simplificar tarefas. |
-| 📊 Decisões melhores | Usar dados para encontrar padrões e gerar insights. |
-| 🤝 Colaboração | Compartilhar conhecimento e aprender com outras pessoas. |
-
-<br />
-
-<i>“O objetivo não é saber tudo, mas nunca parar de aprender.”</i>
-
-</div>
 
 ---
-
-## 🤝 Vamos nos conectar?
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/vitorvianags/">
-  <img src="https://img.shields.io/badge/LinkedIn-Conecte--se_comigo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Meu LinkedIn" />
-</a>
-
-<a href="https://github.com/VitorVianaGS">
-  <img src="https://img.shields.io/badge/GitHub-Explore_meus_projetos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Meu GitHub" />
-</a>
-
-<br /><br />
-
-<img src="https://komarev.com/ghpvc/?username=VitorVianaGS&style=flat-square&color=8B5CF6&label=VISUALIZAÇÕES+DO+PERFIL" alt="Visualizações do perfil" />
-
-</div>
 
 ---
 
