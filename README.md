@@ -108,13 +108,13 @@ const vitor = {
 
 **Dados e inteligência artificial**
 
-<img src="https://skillicons.dev/icons?i=jupyter,tensorflow" alt="Jupyter e TensorFlow" />
+<img src="https://skillicons.dev/icons?i=pandas,numpy,tensorflow" alt="Pandas, NumPy e TensorFlow" />
 
 <br /><br />
 
-<img src="https://img.shields.io/badge/Análise_de_Dados-Pandas%20%7C%20NumPy%20%7C%20Matplotlib-150458?style=for-the-badge" alt="Pandas, NumPy e Matplotlib" />
+<img src="https://img.shields.io/badge/An%C3%A1lise_de_Dados-Pandas%20%7C%20NumPy%20%7C%20Matplotlib-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas, NumPy e Matplotlib" />
 
-<img src="https://img.shields.io/badge/Business_Intelligence-Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+<img src="https://img.shields.io/badge/Business_Intelligence-Power_BI-F2C811?style=for-the-badge&logoColor=black" alt="Power BI" />
 
 <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js e Express" />
 
@@ -126,35 +126,18 @@ const vitor = {
 
 ---
 
-## 📚 Conhecimentos que estou desenvolvendo
-
-- **Programação:** lógica, algoritmos, estruturas de dados e programação orientada a objetos.
-- **Desenvolvimento de software:** requisitos, testes, organização de código e boas práticas.
-- **Backend:** JavaScript, Node.js, APIs REST, integrações e arquitetura de aplicações.
-- **Bancos de dados:** SQL, modelagem de dados, bancos relacionais e conceitos de NoSQL.
-- **Automação:** scripts, fluxos automatizados, integração de sistemas e otimização de tarefas.
-- **Inteligência Artificial:** fundamentos de IA, aprendizado de máquina e aplicações inteligentes.
-- **Análise de Dados:** Python, Pandas, NumPy, estatística, limpeza e visualização de dados.
-- **Infraestrutura:** sistemas operacionais, redes, Linux, computação em nuvem e virtualização.
-- **Ferramentas de desenvolvimento:** Git, GitHub, Docker e ambientes de desenvolvimento.
-- **Metodologias de trabalho:** Scrum, métodos ágeis, colaboração e gerenciamento de projetos.
-- **Segurança da informação:** fundamentos de cibersegurança e boas práticas de proteção de dados.
-- **Desenvolvimento profissional:** comunicação, trabalho em equipe, resolução de problemas e inglês.
-
----
-
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
 
   <img
-    src="https://github-readme-stats.vercel.app/api?username=VitorVianaGS&show_icons=true&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats-fast.vercel.app/api?username=VitorVianaGS&show_icons=true&theme=github_dark&hide_border=true"
     height="170"
     alt="Estatísticas do GitHub"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorVianaGS&layout=compact&theme=github_dark&hide_border=true&langs_count=6"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=VitorVianaGS&layout=compact&theme=github_dark&hide_border=true&langs_count=6"
     height="170"
     alt="Linguagens mais utilizadas"
   />
@@ -168,7 +151,6 @@ const vitor = {
   />
 
 </div>
-
 ---
 
 ## 🧭 Minha mentalidade
